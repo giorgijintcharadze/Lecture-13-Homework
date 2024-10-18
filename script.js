@@ -1,0 +1,10 @@
+let name = "giorgi";
+var lastname = "  jincharadze";
+let age = "  30 wlis";
+let mail = " giorgijintcharadze7@gmail.com";
+let Tel = "  551080262";
+let srulwlovani = true;
+console.log(name + lastname + age + mail + Tel);
+console.log(srulwlovani);
+console.log(" %c551080262", "color:red;");
+console.log(" %csrulwlovani", "color:yellow;");
